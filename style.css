@@ -1,0 +1,30 @@
+h1 {
+    color: rgba(99, 144, 255, 0.95);
+    font: bold 36px Monotype Corsiva, sans-serif;
+    position: sticky;
+    top: 100px;
+}
+nav {
+    color:rgb(120, 158, 223)
+}
+header{
+    background-color:rgba(50, 86, 201, 0.829);
+}
+main{
+    background-color:rgb(44, 46, 184);
+}
+.paragrafo {
+    text-align: justify;
+    text-justify: inter-word;
+            color:  rgb(255, 255, 255);
+}
+body {
+    background-color: rgb(0, 0, 0);
+}
+footer {
+    background-color: rgb(255, 255, 255);
+}
+
+
+class .paragrafoo
+id #
